@@ -1,6 +1,6 @@
 from distutils.core import setup, Extension
 
-module1 = Extension('datapack', sources = ['datapackmodule.c'])
+module1 = Extension('datapack', sources = ['../c/datapackmodule.c'])
 
 setup (name = 'Datapack',
         version = '1.0',
