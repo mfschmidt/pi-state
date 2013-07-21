@@ -10,7 +10,14 @@ This is a project in c and python that will allow a Raspberry Pi to control leve
 
 Releases and Notes:
 
-
+2013-07-21:
+-------------------------------------------------------------------------------
+  Added c/datapackmodule.c
+        c/datapackmodule.h
+        p/setup.py
+  These are the base template code for exposing libraries written in c to the
+  python code.
+  
 2013-07-19:
-----------------------------------------------------------------------------------------
-Creation of the empty project with a readme.
+-------------------------------------------------------------------------------
+  Creation of the empty project with a readme.
